@@ -25,7 +25,7 @@ In ```madcrypt/bin```,  you'll find the ```quickcrypt.sh``` file. This script co
 
 Example usage:
 ```
-bash madcrypt.sh /root/malware.exe /root/Downloads/template.exe
+bash quickcrypt.sh /root/malware.exe /root/Downloads/template.exe
 ```
 This will obfuscate the ```/root/malware.exe``` and sign it using ```/root/Downloads/putty.exe```
 
